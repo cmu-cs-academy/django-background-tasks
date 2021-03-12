@@ -10,7 +10,7 @@ import sys
 
 from django.db.utils import OperationalError
 from django.utils import timezone
-from django.utils.six import python_2_unicode_compatible
+from six import python_2_unicode_compatible
 
 from background_task.exceptions import BackgroundTaskError
 from background_task.models import Task

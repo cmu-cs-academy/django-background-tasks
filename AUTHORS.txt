@@ -20,6 +20,10 @@ Contributors
 * jedie
 * lorddaedra
 * dbreen
-
+* Osman A. Osman (oaosman84)
+* David Vogt (winged)
+* Aleksandr Levchuk (alevchuk)
+* Kai-Lun Huang (kaibaooo)
+* cedricfarinazzo
 
 Your name could stand here :)
